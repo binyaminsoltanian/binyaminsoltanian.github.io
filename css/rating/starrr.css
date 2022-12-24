@@ -1,0 +1,9 @@
+ .star-rating .fa{
+   color: #FFD800;
+   font-size: 25px;
+ }
+.star-rating .fa-star-o:hover:before {
+    content: "\f005"!important;
+    color:#FFD800!important
+}
+.star-rating .fa-star{color: #FFD800;}
